@@ -1,0 +1,17 @@
+com\Techno\controller\PerformanceController.class
+com\Techno\repository\EmployeeRepo.class
+com\Techno\entity\Employee.class
+com\Techno\controller\LeaveController.class
+com\Techno\entity\Payroll.class
+com\Techno\repository\PerformanceRepo.class
+com\Techno\controller\EmployeeController.class
+com\Techno\service\PayrollService.class
+com\Techno\entity\LeaveEn.class
+com\Techno\TechnoApplication.class
+com\Techno\repository\LeaveRepo.class
+com\Techno\entity\Performance.class
+com\Techno\controller\PayrollController.class
+com\Techno\service\EmployeeService.class
+com\Techno\service\LeaveService.class
+com\Techno\repository\PayrollRepo.class
+com\Techno\service\PerformanceService.class
